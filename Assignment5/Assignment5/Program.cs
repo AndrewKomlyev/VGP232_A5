@@ -13,7 +13,7 @@ namespace Assignment5
             Console.WriteLine("{0} has entered the forest", hero.Name);
 
             string monster = "goblin";
-            int damage = 10;
+            int damage = 120;
 
             Console.WriteLine("A {0} appeared and attacks {1}", monster, hero.Name);
 
